@@ -61,3 +61,13 @@ body {
 .login-container a:hover {
     color: #555;
 }
+
+.button-cari {
+    width: 100%;
+}
+
+.card-barber:hover {
+    background-color: #969696;
+    transition: 0.2s;
+    ;
+}
